@@ -1,0 +1,29 @@
+{
+  "name": "kitchen",
+  "version": "1.0.0",
+  "description": "Kitchen Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lakrajasekar/kitchen.git"
+  },
+  "keywords": [
+    "satvik",
+    "kitchen",
+    "indian",
+    "vegeterian",
+    "vegan"
+  ],
+  "author": "Lakshmi Rajasekaran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lakrajasekar/kitchen/issues"
+  },
+  "homepage": "https://github.com/lakrajasekar/kitchen",
+  "dependencies": {
+    "angularjs": "0.0.1"
+  }
+}
